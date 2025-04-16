@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dac3ey796-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dac3ey796-nodejs
